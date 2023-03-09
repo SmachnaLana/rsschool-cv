@@ -1,7 +1,5 @@
 # Sviatlana Shatskaya
 
-![photo](https://scontent.fktw1-1.fna.fbcdn.net/v/t39.30808-6/278579852_3191682904379205_5064903295715869779_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=SdgCOL4U8VIAX_hwVxw&_nc_ht=scontent.fktw1-1.fna&oh=00_AfBjOV_bkV9gS4mv99YO08ryOpJeoR9Iay7v5XYa08IAog&oe=640CC4B4)
-
 ## Contacts
 - Location: Wroclaw, Poland
 - Phone: +48 514 114 908
